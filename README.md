@@ -1,4 +1,5 @@
-#Gerenciamento de Petshop - Paradigmas de Programação (UFMA)#
+#Gerenciamento de Petshop - Paradigmas de Programação (UFMA)
+
 Este projeto é uma aplicação de gerenciamento de petshop desenvolvida em Java, utilizando a biblioteca Swing para a interface gráfica de usuário (GUI). Ele foi criado como parte da terceira nota da disciplina de Paradigmas de Programação da Universidade Federal do Maranhão (UFMA), demonstrando conceitos como Programação Orientada a Objetos (POO), herança, polimorfismo, serialização de objetos e manipulação de coleções.
 
 *Visão Geral*
