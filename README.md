@@ -1,10 +1,10 @@
-###Gerenciamento de Petshop - Paradigmas de Programação (UFMA)###
+#Gerenciamento de Petshop - Paradigmas de Programação (UFMA)#
 Este projeto é uma aplicação de gerenciamento de petshop desenvolvida em Java, utilizando a biblioteca Swing para a interface gráfica de usuário (GUI). Ele foi criado como parte da terceira nota da disciplina de Paradigmas de Programação da Universidade Federal do Maranhão (UFMA), demonstrando conceitos como Programação Orientada a Objetos (POO), herança, polimorfismo, serialização de objetos e manipulação de coleções.
 
-Visão Geral
+*Visão Geral*
 A aplicação permite o cadastro, alteração, exclusão e listagem de animais (cães e gatos) em um petshop. Os dados são persistidos em um arquivo binário (animais.dat) utilizando serialização, garantindo que as informações não sejam perdidas ao fechar a aplicação.
 
-Funcionalidades
+*Funcionalidades*
 Cadastro de Animais: Adicione novos cães e gatos com informações como nome, idade, raça, e características específicas (porte para cães, castrado para gatos).
 
 Listagem de Animais: Visualize todos os animais cadastrados em uma tabela organizada.
@@ -85,9 +85,8 @@ Persistência: Serialização de Objetos Java
 Contribuição
 Este projeto foi desenvolvido para fins acadêmicos. Contribuições são bem-vindas, especialmente para melhorias na interface ou na robustez do código.
 Autor
-[Seu Nome Completo]
+Joao Felipe Pereira Campos
 
-[Seu Matrícula UFMA]
 
 Universidade Federal do Maranhão (UFMA)
 
