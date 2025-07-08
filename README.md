@@ -52,9 +52,8 @@ Para compilar e executar este projeto, você precisará ter o Java Development K
 Clone o repositório (ou baixe os arquivos):
 
 ```bash
-<pre> ```git clone https://github.com/seu-usuario/PetshopApp.git``` </pre>
+```git clone https://github.com/seu-usuario/PetshopApp.git``` 
 cd PetshopApp
 
-<pre> ```bash git clone https://github.com/seu-usuario/PetshopApp.git cd PetshopApp ``` </pre>
-
+```bash git clone https://github.com/seu-usuario/PetshopApp.git cd PetshopApp ```
 
